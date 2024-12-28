@@ -22,7 +22,7 @@
 
 #### CERTIFICATES  
 
-[AWS Certified: Cloud Practitioner  Foundational](https://www.credly.com/badges/787d696b-e126-4bd8-bb87-d29d6fb8d795)
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/787d696b-e126-4bd8-bb87-d29d6fb8d795)
 
 [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/22299b4c-dbee-4f4b-b217-8aced76323fa)
 
