@@ -124,7 +124,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyc0812&show_icons=true&include_all_commits=fale&theme=buefy&hide_border=true" alt="Yongchang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyc0812&layout=compact&langs_count=5&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align ="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyc0812&" alt="hyc0812" /></p>
+<p align ="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyc0812&" alt="kyoko912" /></p>
 
 
 <!--busy eating--> 
